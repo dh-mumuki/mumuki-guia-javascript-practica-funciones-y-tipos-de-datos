@@ -20,5 +20,3 @@ Para llamar a la funcion y que haga lo que queremos hay que llamarla por el nomb
 doble(5);   //Esto nos va a devolver 10
 doble(1.5); //Y este nos da 3
 ```
-
->Veamos si se va entendiendo: escribí ahora una función JavaScript mitad, que tome un número y devuelva su mitad. Tené en cuenta que el operador de división en JavaScript es `/`.
