@@ -1,0 +1,1 @@
+Estas son algunas de las funciónes que Javascript nos regala
