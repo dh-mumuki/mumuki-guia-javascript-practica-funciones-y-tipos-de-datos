@@ -8,8 +8,5 @@ function sumar(numero1,numero2){
 }
 ```
 
+> Escribite una función que tome dos parametros y los multiplique.
 
-
-function dobleDelAbsoluto(numero) {
-   return 2 * Math.abs(numero);
-}
