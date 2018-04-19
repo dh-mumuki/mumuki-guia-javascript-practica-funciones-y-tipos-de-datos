@@ -1,7 +1,14 @@
-Además de los operadores básicos matemáticos +, -, / y * 
-existen muchas otras funciones matemáticas comunes, algunas de las cuales ya vienen con JavaScript y están listas para ser usadas.
+Ya vimos los operadores básicos matemáticos `+`, `-`, `/` y `*`
 
-Sin embargo, la sintaxis de estas funciones matemáticas es apenitas diferente de lo que veníamos haciendo hasta ahora; hay que prefijarlas con Math.. Por ejemplo, la función que devuelve el valor absoluto de un número es Math.abs:
+Ahora podemos usar las funciones para hacer las cuentas mas faciles.
+
+```javascript
+function sumar(numero1,numero2){
+  return numero1 + numero2 ;
+}
+```
+
+
 
 function dobleDelAbsoluto(numero) {
    return 2 * Math.abs(numero);
