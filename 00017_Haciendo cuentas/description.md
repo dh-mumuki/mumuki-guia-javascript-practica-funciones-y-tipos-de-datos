@@ -8,5 +8,5 @@ function sumar(numero1,numero2){
 }
 ```
 
-> Escribite una función que tome dos parametros y los multiplique.
+> Escribite la función **multiplicar** que tome dos parametros y los multiplique.
 
