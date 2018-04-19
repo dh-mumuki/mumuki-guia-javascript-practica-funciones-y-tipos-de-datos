@@ -1,14 +1,8 @@
 describe("mitad", () => {
-  it("mitad(\"cara\", \"pizzas\", \"empanadas\") es \"pizzas\"", () => {
-    assert.equal(decisionConMoneda("cara", "pizzas", "empanadas"), "pizzas")
+  it("mitad(6) divide 6 a la mitad y nos da 3", () => {
+    assert.equal(mitad(6), 3)
   })
-  it("decisionConMoneda(\"cara\", \"asado\", \"empanadas\") es \"asado\"", () => {
-    assert.equal(decisionConMoneda("cara", "asado", "empanadas"), "asado")
-  })
-  it("decisionConMoneda(\"ceca\", \"pizzas\", \"empanadas\") es \"empanadas\"", () => {
-    assert.equal(decisionConMoneda("ceca", "pizzas", "empanadas"), "empanadas")
-  })
-  it("decisionConMoneda(\"ceca\", \"pizzas\", \"pastas\") es \"pastas\"", () => {
-    assert.equal(decisionConMoneda("ceca", "pizzas", "pastas"), "pastas")
+  it("mitad(100) divide 100 a la mitad y nos da 50", () => {
+    assert.equal(mitad(100), 50)
   })
 })
