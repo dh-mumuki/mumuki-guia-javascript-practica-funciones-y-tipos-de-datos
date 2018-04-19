@@ -1,1 +1,3 @@
-function mitad
+function mitad(){
+  return //El codigo
+}
