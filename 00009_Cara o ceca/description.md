@@ -2,10 +2,16 @@ Hay veces en las que tenemos difíciles decisiones que tomar en nuestras vidas _
 
 Es allí que tomamos una moneda y decimos: _si sale cara, comemos pizzas, si no, empanadas_. 
 
-> Escribí una función `decisionConMoneda`, que toma dos parámetros y devuelve el primero si es `"cara"`, o el segundo, si es `"ceca"`. 
+> Escribí una función `tirarMoneda`, que nos devuelva `1` para cara y `0` para ceca 
 Por ejemplo: 
 > 
 > ```javascript
-> ム decisionConMoneda("pizzas", "empanadas")
-> "pizzas"
+> ム tirarMoneda()
+> 1
+> ム tirarMoneda()
+> 0
+> ム tirarMoneda()
+> 0
+> ム tirarMoneda()
+> 1
 > ```
