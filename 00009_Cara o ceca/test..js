@@ -1,8 +1,6 @@
 describe("tirarMoneda", () => {
   it("", () => {
-    assert.equal(tirarMoneda(), 0)
-  })
-  it("", () => {
-    assert.equal(tirarMoneda(), 1)
+    var result = tirarMoneda()
+    assert(result >= 0 && result <= 1)
   })
 })
