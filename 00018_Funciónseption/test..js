@@ -1,6 +1,6 @@
-describe("multiplicar", function() {
-  it("deberia multiplicar 5 por 7 y deberia darnos 35", () => {
-    assert.equal(multiplicar(5,7), 35)
+describe("esMagico", function() {
+  it("deberia tomar 5 y devolvernos 12", () => {
+    assert.equal(esMagico(5), 12)
   })
   it("deberia multiplicar 7 por 10 y deberia darnos 70", () => {
     assert.equal(multiplicar(7,10), 70)
