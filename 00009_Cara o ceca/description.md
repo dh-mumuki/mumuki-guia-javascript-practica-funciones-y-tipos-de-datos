@@ -6,12 +6,8 @@ Es allí que tomamos una moneda y decimos: _si sale cara, comemos pizzas, si no,
 Por ejemplo: 
 > 
 > ```javascript
-> ム tirarMoneda()
-> 1
-> ム tirarMoneda()
-> 0
-> ム tirarMoneda()
-> 0
-> ム tirarMoneda()
-> 1
+> ム tirarMoneda() // Nos devuelve 1
+> ム tirarMoneda() // Nos devuelve 0
+> ム tirarMoneda() // Nos devuelve 0
+> ム tirarMoneda() // Nos devuelve 1
 > ```
