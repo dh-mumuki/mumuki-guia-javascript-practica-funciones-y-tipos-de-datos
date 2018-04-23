@@ -1,10 +1,10 @@
-Ya vimos que podemos hacer calculos matematicos simples y de alguna complejidad.
+Ya vimos que podemos hacer cálculos matemáticos simples y de alguna complejidad.
 
-Ahora vayamos por algo mas importante.
+Ahora vayamos por algo más importante.
 
-Queremos hace funciones que nos permitan sacar el area y el perimetro de un circulo.
+Queremos hacer funciones que nos permitan sacar el área y el perímetro de un círculo.
 
-> Hagamos una funcion **perimetro** que nos diga el perimetro de un circulo cuando le damos el radio como _parametro_.
+> Hagamos una función **perimetro** que nos diga el perímetro de un círculo cuando le damos el radio como _parámetro_.
 
 
-> Tambien la funcion **area** que nos de el are de un circulo cuando recibe el radio como _parametro_.
+> También la función **area** que nos dé el area de un círculo cuando recibe el radio como parámetro.
