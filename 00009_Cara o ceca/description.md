@@ -1,6 +1,6 @@
-Hay veces en las que tenemos difíciles decisiones que tomar en nuestras vidas _(como por ejemplo, si comer pizzas o empanadas :stuck_out_tongue:)_, y no tenemos más remedio que dejarlas libradas a la suerte. 
+Hay veces en las que tenemos decisiones difíciles que tomar en nuestras vidas _(como por ejemplo, si comer pizza o empanadas :stuck_out_tongue:)_, y no tenemos más remedio que dejarlas libradas a la suerte. 
 
-Es allí que tomamos una moneda y decimos: _si sale cara, comemos pizzas, si no, empanadas_. 
+Es ahí que tomamos una moneda y decimos: _si sale cara, comemos pizza, si no, empanadas_. 
 
 > Escribí una función `tirarMoneda`, que nos devuelva `1` para cara y `0` para ceca 
 Por ejemplo: 
