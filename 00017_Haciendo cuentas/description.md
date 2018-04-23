@@ -1,6 +1,6 @@
 Ya vimos los operadores básicos matemáticos `+`, `-`, `/` y `*`
 
-Ahora podemos usar las funciones para hacer las cuentas mas faciles.
+Ahora podemos usar las funciones para hacer las cuentas mas fáciles.
 
 ```javascript
 function sumar(numero1,numero2){
@@ -8,5 +8,5 @@ function sumar(numero1,numero2){
 }
 ```
 
-> Escribite la función **multiplicar** que tome dos parametros y los multiplique.
+> Escribite la función **multiplicar** que tome dos parámetros y los multiplique.
 
