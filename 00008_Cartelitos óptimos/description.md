@@ -1,9 +1,9 @@
 Ahora que ya podemos escribir nuestros cartelitos identificatorios, queremos una función que nos dé el cartelito de tamaño óptimo: 
 
-* si nombre y apellido tienen, en total, más de 15 letras, queremos un cartelito corto
-* de lo contrario, queremos un cartelito largo
+* Si nombre y apellido tienen, en total, más de 15 letras, queremos un cartelito corto
+* De lo contrario, queremos un cartelito largo
 
-> Escrbí la función `escribirCartelitoOptimo` que tome un título, un nombre y un apellido, y genere un cartelito corto o largo, según las reglas anteriores. Ejemplo: 
+> Escribí la función `escribirCartelitoOptimo` que tome un título, un nombre y un apellido, y genere un cartelito corto o largo, según las reglas anteriores. Ejemplo: 
 > 
 > ```javascript
 > ム escribirCartelitoOptimo("Ing.", "Carla", "Toledo")
