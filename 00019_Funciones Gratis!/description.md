@@ -6,7 +6,7 @@ Math.abs(4)    //devuelve 4
 Math.abs(0)    //devuelve 0
 Math.abs(-123) //devuelve 123
 ```
-> `Math.abs()` nos devuelve el valor absoluto del numero que le pasamos como _parámetro_.
+> `Math.abs()` nos devuelve el valor absoluto del número que le pasamos como _parámetro_.
 
 ```javascript
 Math.round(4.6) //devuelve 5
