@@ -1,6 +1,6 @@
-El proximo tambien se podria ver como el numero mas uno.
+El próximo también se podría ver como el número mas uno.
 
-Recorda que ya tenemos las funciónes **sumar()** y **multiplicar**.
+Recordá que ya tenemos las funciónes **sumar()** y **multiplicar**.
 
 ```javascript
 function sumar(numero1,numero2){
