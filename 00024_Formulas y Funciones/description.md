@@ -1,6 +1,6 @@
 Ya vimos que podemos hacer cálculos matemáticos simples y de alguna complejidad.
 
-Ahora vayamos por algo más importante.
+Ahora vayamos a algo más importante.
 
 Queremos hacer funciones que nos permitan sacar el área y el perímetro de un círculo.
 
