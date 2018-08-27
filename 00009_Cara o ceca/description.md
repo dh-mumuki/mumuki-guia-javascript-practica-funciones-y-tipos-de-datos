@@ -1,13 +1,12 @@
-Hay veces en las que tenemos decisiones difíciles que tomar en nuestras vidas _(como por ejemplo, si comer pizza o empanadas :stuck_out_tongue:)_, y no tenemos más remedio que dejarlas libradas a la suerte. 
+Además de las funciones vistas en el punto anterior, hay una función ya definida en JavaScript que es super importante: `Math.random()`.  
+Esta función genera **al azar** un número decimal entre 0 y 1, y es la base para muchos cálculos usados en programación.
 
-Es ahí que tomamos una moneda y decimos: _si sale cara, comemos pizza, si no, empanadas_. 
+ ```javascript
+ ム Math.random()
+ 0.056
 
-> Escribí una función `tirarMoneda`, que nos devuelva `1` para cara y `0` para ceca. 
-Por ejemplo: 
-> 
-> ```javascript
-> ム tirarMoneda() // Nos devuelve 1
-> ム tirarMoneda() // Nos devuelve 0
-> ム tirarMoneda() // Nos devuelve 0
-> ム tirarMoneda() // Nos devuelve 1
-> ```
+ ム Math.random()
+ 0.178
+ ```
+
+> Escribí una función `inventarProbabilidad()`, que no recibe parametros y que devuelve el porcentaje de probabilidad de lluvia, calculado al azar usando `Math.random()`.

@@ -1,12 +1,3 @@
-Acordate que **JavaScript** tiene funciones matemeticas como `Math.random()` que nos devuelve todos los numeros desde el 0 al 1. 
+Acordate que `Math.random()` devuelve un número al azar entre el 0 al 1. 
 
- ```javascript
- ム Math.random()
- 0.056
-
- ム Math.random()
- 0.178
-
- ム Math.random()
- 0
- ```
+Si queremos que el resultado final sea un porcentaje, va a ser necesario multiplicar el valor obtenido por 100.
