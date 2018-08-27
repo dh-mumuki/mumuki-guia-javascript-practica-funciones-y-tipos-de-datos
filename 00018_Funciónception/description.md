@@ -4,7 +4,8 @@ Por ejemplo, si queremos sumar dos números y después multiplicarlos por 3, pod
 
 ```javascript
 function sumaPorTres(numero1,numero2){
-  return sumar(numero1,numero2)*3 ;
+  var resultadoDeSuma = sumar(numero1,numero2);
+  return resultadoDeSuma * 3;
 }
 ```
 
