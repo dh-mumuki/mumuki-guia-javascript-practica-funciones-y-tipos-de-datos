@@ -11,4 +11,4 @@ function sumaPorTres(numero1,numero2){
 
 Acá vemos que al ya tener la función **sumar()** definida, podemos llamarla dentro de otra función y hacernos el trabajo mas fácil.
 
-> Veamos si con la función **sumar()** podemos hacer una función **esMagico()** que tome un parámetro y nos devuelva el doble del siguiente. 
+> Veamos si con la función `sumar()` podemos hacer una función `dobleDelSiguiente()` que tome un parámetro y nos devuelva el doble del siguiente. 

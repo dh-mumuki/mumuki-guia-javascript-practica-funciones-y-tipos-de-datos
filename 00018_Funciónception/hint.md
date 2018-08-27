@@ -1,13 +1,13 @@
-El próximo también se podría ver como el número mas uno.
+Pensa que "el doble de un número" puede ser el resultado de sumar el número consigo mismo; y "el próximo de un número" también se podría entender como "el número mas uno".
 
-Recordá que ya tenemos las funciónes **sumar()** y **multiplicar**.
+Recordá además que ya tenemos las funciones `sumar()` y `multiplicar()`.
 
 ```javascript
-function sumar(numero1,numero2){
+function sumar(numero1, numero2){
   return numero1 + numero2;
 }
 
-function multiplicar(num1,numero2){
+function multiplicar(numero1, numero2){
   return numero1 * numero2;
 }
 ```
