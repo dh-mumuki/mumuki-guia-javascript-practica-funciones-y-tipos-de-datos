@@ -2,7 +2,7 @@ Hay veces en las que tenemos decisiones difíciles que tomar en nuestras vidas _
 
 Es ahí que tomamos una moneda y decimos: _si sale cara, comemos pizza, si no, empanadas_. 
 
-> Escribí una función `tirarMoneda`, que nos devuelva `1` para cara y `0` para ceca 
+> Escribí una función `tirarMoneda`, que nos devuelva `1` para cara y `0` para ceca. 
 Por ejemplo: 
 > 
 > ```javascript

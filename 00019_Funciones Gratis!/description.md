@@ -23,5 +23,6 @@ Math.min(4, 7)  //devuelve 4
 ```
 > `Math.max()` toma dos parámetros y nos devuelve el número más alto, mientras `Math.min()` toma dos parámetros y devuelve el mas bajo.
 
+  
 
 > Probá estas funciones en la consola y fijate lo que te devuelven. 
