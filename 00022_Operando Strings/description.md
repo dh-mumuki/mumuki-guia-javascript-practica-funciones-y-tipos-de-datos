@@ -11,7 +11,7 @@ _Si te acordás, los **strings** son un tipo de dato. Representan cadenas de tex
 ```
 
 También te recordamos que podemos sumar **strings**... Si, ¡sumarlos!
-Aunque el término correcto es **concatenarlos**, es decir, obtener uno nuevo, juntando dos o mas **strings**:
+Aunque el término correcto es **concatenarlos**, es decir, obtener uno nuevo, juntando dos o más **strings**:
 
 ```javascript
  "aa" + "bb"       // devuelve "aabb"
