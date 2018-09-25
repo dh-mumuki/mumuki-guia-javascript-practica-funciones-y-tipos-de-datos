@@ -1,8 +1,8 @@
-Hablamos de que las funciónes pueden no tener _parametros_ y pueden no usar un **return**. Como seria eso???
+Hablamos de que las funciones pueden no tener _parámetros_ y pueden no usar un **return**. Como sería eso???
 
 ```javascript
 function saludar(){
   console.log("Hola!");
 }
 ```
-Lo que podemos hacer con las funciones esta limitado solo por la imaginación.
+Lo que podemos hacer con las funciones está limitado solo por la imaginación.
