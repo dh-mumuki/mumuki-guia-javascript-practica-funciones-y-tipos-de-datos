@@ -9,4 +9,4 @@ Esta función genera **al azar** un número decimal entre 0 y 1, y es la base pa
  0.178
  ```
 
-> Escribí una función `inventarProbabilidad()`, que no recibe parametros y que devuelve el porcentaje de probabilidad de lluvia, calculado al azar usando `Math.random()`.
+> Escribí una función `inventarProbabilidad()`, que no recibe parámetros y devuelve el porcentaje de probabilidad de lluvia, calculado al azar usando `Math.random()`.
