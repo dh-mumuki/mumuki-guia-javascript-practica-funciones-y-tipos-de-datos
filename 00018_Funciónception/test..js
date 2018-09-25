@@ -1,4 +1,4 @@
-describe("esMagico", function() {
+describe("dobleDelSiguiente", function() {
   it("deberia tomar 5 y devolvernos 12", () => {
     assert.equal(dobleDelSiguiente(5), 12)
   })
